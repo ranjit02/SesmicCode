@@ -1,0 +1,57 @@
+[
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include main.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/main.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include json_parser.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/json_parser.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include modelling_worker.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/modelling_worker.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include modelling_master.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/modelling_master.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include read_receiver.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/read_receiver.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include create_geometry.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/create_geometry.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include workload.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/workload.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include model.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/model.cpp"
+    },
+    {
+        "command": "c++ -c --dpcpp -fsycl -O3 -std=c++17 -fsycl -fPIC -qopenmp -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/latest/include -O3 -std=c++17 -fsycl -fPIC -I/home/xcat_drbd_backup/xCATdrbd/opt_ohpc_pub/oneapi_basekit/mpi/2021.3.0/include check_stability.cpp",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/check_stability.cpp"
+    },
+    {
+        "command": "nvcc -c  -D__CUDACC__=1 gpu_modelling_kernels.cu",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/gpu_modelling_kernels.cu"
+    },
+    {
+        "command": "nvcc -c  -D__CUDACC__=1 gpumodelling.cu",
+        "directory": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu",
+        "file": "/home/om/HPC/oneAPI/CDAC/dpct/Ranjeet/SeisAcoMod2D/src/src_gpu/gpumodelling.cu"
+    }
+]
